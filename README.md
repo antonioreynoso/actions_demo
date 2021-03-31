@@ -1,2 +1,3 @@
-# actions_demo
+# POC GitHub actions
+
 github actions
